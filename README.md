@@ -42,7 +42,7 @@ Does TV series Genres have higher IMDB ratings than Movie Genre?
 [Lead Analyst: Eli Souvannarath]
 
 ## Does the Release Year and Genre have an positive affect on IMDB Ratings
-While researching the Netflix IMDB data we were successful in answering our research questions. Our P-value =6.7 which indicates there strong evidence for null hypothesis. Which mean Runtime does not have a positive correlation between IMDB Ratings. 
+While researching the Netflix IMDB data we were successful in answering our research questions. Our analysis indicates there’s strong evidence for our hypothesis, which means Runtime does have a positive correlation with IMDB Ratings. We gained this positive correlation from a ttest, with a pvalue of .001 which allow us to reject the null hypothesis. 
 
 ## What effect does digital movies vs. video movies have on IMDB Ratings?
 There was no statistical difference in movies that were watched digitally versus movies that were watched on VHS. 
