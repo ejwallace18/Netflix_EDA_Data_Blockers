@@ -12,7 +12,10 @@ Is there a positive correlation between Genre & Ratings?
 ## Our Findings:
 
 					Most Popular Movies of the Year By Distribution & Votes
-<img width="473" alt="Screen Shot 2021-10-28 at 4 55 42 PM" src="https://user-images.githubusercontent.com/89438716/139334564-c435bd0e-538b-49c4-822c-8dfd5fe31d92.png"><img width="469" alt="Screen Shot 2021-10-28 at 4 54 46 PM" src="https://user-images.githubusercontent.com/89438716/139334663-41dbabbb-c7db-4ac8-9dc7-504ba3774931.png">              
+<p align="center">	
+<img width="400" alt="new graph" src="https://user-images.githubusercontent.com/89438716/139521619-df7aafbf-5c87-4f78-95db-5b12216660de.png"><img width="400" alt="Screen Shot 2021-10-28 at 4 54 46 PM" src="https://user-images.githubusercontent.com/89438716/139521637-d0c7ac81-3bad-4fa3-b0f1-8f64a864bcfc.png">
+
+
  [Lead Analyst: Sarah Kate Cullen]
 
 
@@ -22,7 +25,7 @@ Is there a positive correlation between Genre & Ratings?
 [Lead Analyst: Eli Souvannarath]
 						
 						
-					   	 Most Popular Genre in TV & Movies
+					   Most Popular Genre in TV & Movies
 					    
 <p align="center">						
 <img width="400" alt="Screen Shot 2021-10-28 at 5 16 12 PM" src="https://user-images.githubusercontent.com/89438716/139521409-5643c3f5-77d0-46b9-9d4a-72eac307b771.png"><img width="400" alt="Screen Shot 2021-10-28 at 5 16 12 PM" src="https://user-images.githubusercontent.com/89438716/139521429-8897f16f-c089-4206-93ef-5270dae71516.png">
