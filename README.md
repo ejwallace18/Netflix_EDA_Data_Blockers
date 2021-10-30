@@ -5,8 +5,9 @@ This project analyzed Netflix & IMDB data to answer the question "Does the Relea
 ## What we wanted to Understand?
 
 What effect does digital movies vs. video movies have on IMDB Ratings?
-What effect does ratings have on certain countries, and does it correlate between higher IMDB ratings?
-Is there a positive correlation between Genre & Ratings? 
+What effect does ratings have on certain release years, and does it have a correlation to higher IMDB ratings?
+Does TV series Genres have higher IMDB ratings than Movie Genre?
+
 
 	
 ## Our Findings:
@@ -41,16 +42,16 @@ Is there a positive correlation between Genre & Ratings?
 [Lead Analyst: Eli Souvannarath]
 
 ## Does the Release Year and Genre have an positive affect on IMDB Ratings
-While researching the Netflix IMDB data we were successful in answering our research questions. We were able to prove that runtime has a positive effect on IMDB Ratings through a Ttest. Our ttest showed a pvalue = 6.7 showing that there is a positive correlation between movies Runtime and IMDB Ratings. We were able to prove that movies under 2 hours rated higher than movies over two hours. We can contribute this to the viewer not watching the movie in its entirety if it is too long, thus giving it a lower rating. 
+While researching the Netflix IMDB data we were successful in answering our research questions. Our P-value =6.7 which indicates there strong evidence for null hypothesis. Which mean Runtime does not have a positive correlation between IMDB Ratings. 
 
 ## What effect does digital movies vs. video movies have on IMDB Ratings?
 There was no statistical difference in movies that were watched digitally versus movies that were watched on VHS. 
 
-## What effect does ratings have on certain countries, and does it correlate between higher IMDB ratings?
-Netflix's most prolific content creators are mostly from the United States, with India and the United Kingdom well behind.Because Netflix is based in the United States, it's not surprising that the country creates the most material.
+## What effect does ratings have on certain release years, and does it have a correlation to higher IMDB ratings?
+There is a spike in in average ratings for Movies from years 2010-2020, we can contribute this to 2 historical events in Netflix history. They started marking with smart TV companies, and they started to release original Netflix material. This lets us know there is a correlation between IMDB ratings and Release Years. 
 
-## Is there a positive correlation between Genre & Ratings? 
-We were able to find a relationship between Genre & Ratings, showing the top rated Genres being Drama & Animation. 
+## Does TV series Genres have higher IMDB ratings than Movie Genre?
+TV genres tend to have a higher rating than movie genre.
 
 ## References
 Butler, D. (1970, January 1). History Of Netflix: Timeline And Facts. TheStreet. https://www.thestreet.com/technology/history-of-netflix-15091518
