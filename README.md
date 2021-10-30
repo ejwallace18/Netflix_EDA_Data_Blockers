@@ -39,3 +39,21 @@ Is there a positive correlation between Genre & Ratings?
 <img width="692" alt="Screen Shot 2021-10-30 at 1 08 03 AM" src="https://user-images.githubusercontent.com/89438716/139521159-506d7b72-15fe-4eb3-a452-2f34d5ee0165.png">
 </p>
 [Lead Analyst: Eli Souvannarath]
+
+## Does the Release Year and Genre have an positive affect on IMDB Ratings
+While researching the Netflix IMDB data we were successful in answering our research questions. We were able to prove that runtime has a positive effect on IMDB Ratings through a Ttest. Our ttest showed a pvalue = 6.7 showing that there is a positive correlation between movies Runtime and IMDB Ratings. We were able to prove that movies under 2 hours rated higher than movies over two hours. We can contribute this to the viewer not watching the movie in its entirety if it is too long, thus giving it a lower rating. 
+
+## What effect does digital movies vs. video movies have on IMDB Ratings?
+There was no statistical difference in movies that were watched digitally versus movies that were watched on VHS. 
+
+## What effect does ratings have on certain countries, and does it correlate between higher IMDB ratings?
+Netflix's most prolific content creators are mostly from the United States, with India and the United Kingdom well behind.Because Netflix is based in the United States, it's not surprising that the country creates the most material.
+
+## Is there a positive correlation between Genre & Ratings? 
+We were able to find a relationship between Genre & Ratings, showing the top rated Genres being Drama & Animation. 
+
+## References
+Butler, D. (1970, January 1). History Of Netflix: Timeline And Facts. TheStreet. https://www.thestreet.com/technology/history-of-netflix-15091518
+DDangDeveloper. (2021, October 15). Netflix Prize Shows Information - EDA. https://www.kaggle.com/ddangdeveloper/netflix-prize-shows-information-eda/data
+
+
